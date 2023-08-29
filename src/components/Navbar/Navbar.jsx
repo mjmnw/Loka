@@ -127,7 +127,7 @@ export default function Navbar() {
             />
           </div>
           <div className="flex px-3">
-            <div className="pr-1">Things to DO</div>
+            <div className="pr-1">Things to Do</div>
             <div className="pt-2">
               <img
                 className="h-[13px]"
