@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <>
-    <div className="h-[100px]  border-t-[5px] border-sky-500">
+    <div className="h-[100px] border-t-[5px] border-sky-500">
     <div className="flex text-sm  h-[50px] px-20 justify-between">
       <div className="flex justify-item-center">
         <div className="flex justify-center">
